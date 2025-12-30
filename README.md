@@ -43,7 +43,7 @@ Para devida automatização e facilidade no uso da planilha, foi aplicado tanto 
  5. **Dividendos mensais?** Retorno que irá obter de renda passiva, após investir por determinado período de tempo.
 
  **3.** Cenários
- ![alt text](<Captura de tela 2025-12-29 224848.png>)
+![ Arquivos de imagens/Captura de tela 2025-12-29 224848.png](<Arquivos de imagens/Captura de tela 2025-12-29 224848.png>)
  - Este módulo envolve mais parâmetros, no que concerne os dividendos ganhos, renda passiva, mensalmente e após determinado período de tempo investindo. Apresenta o valor investido de 2 anos à 30 anos e seus possíveis ganhos.
 
  **Atenção!⚠️** Vale ressaltar que essas projeções tratam-se de valores aproximados, pondendo variar conforme a época, inflação, dentre outras situações que podem influenciar nestes indicadores.
@@ -73,3 +73,4 @@ https://www.dio.me
 https://github.com/digitalinnovationone/github-quickstart.git
 
 https://github.com/digitalinnovationone/github-quickstart/commits?author=felipeAguiarCode
+
