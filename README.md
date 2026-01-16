@@ -19,7 +19,7 @@ Voltado para quem deseja investir em fundos imobiliários(**FII**).
 6. Hotelarias.
 
 ## **Fórmulas utilizadas**
-Para devida automatização e facilidade no uso da planilha, foi aplicado tanto as fórmulas mais simples do Excel (Multiplicação, soma, subtração) quanto as mais elaboradas (=VF-valor futuro, =PROCV-procular na coluna vertical, =CONCATENAR-agrupa várias cadeias de texto em uma única sequência).
+Para devida automatização e facilidade no uso da planilha, foi aplicado tanto as fórmulas mais simples do Excel (Multiplicação, soma, subtração) quanto as mais elaboradas (=VF-valor futuro, =PROCV-procurar na coluna vertical, =CONCATENAR-agrupa várias cadeias de texto em uma única sequência).
 ## **COMO UTILIZAR A FERRAMENTA**
 ### Há no total 6 módulos na planilha, para estar realizando as projeções de investimentos. Seguindo a coluna de "Configurações", posterior a de "investimentos mensais", passando pela simulação de "cenários" e etc. Listarei uma por uma para explicar a devida funcionalidade de cada um desses módulos.
 **1.** Configurações ![alt text](<Arquivos de imagens/Captura de tela 2025-12-29 214700.png>)
@@ -73,4 +73,5 @@ https://www.dio.me
 https://github.com/digitalinnovationone/github-quickstart.git
 
 https://github.com/digitalinnovationone/github-quickstart/commits?author=felipeAguiarCode
+
 
